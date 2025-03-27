@@ -1,3 +1,0 @@
-hello Sam
-How are you?
-What is your overall experience in devops?
